@@ -22,3 +22,5 @@ async def main():
     print(f"Total time taken: {round(timer() - start, 2)} seconds")
 
 asyncio.run(main())
+
+
